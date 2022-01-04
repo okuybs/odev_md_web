@@ -1,1 +1,3 @@
-# Hazırladığınız ödev dosyalarını yeni dosya yükle seçeneği ile bu repo içerisine yükleyiniz
+# Hazırladığınız web sitesine ait dosyaları yeni dosya yükle seçeneği ile bu repo içerisine yükleyiniz
+* Markdown dilinde yazılmış web sayfası dosyası
+* Web sayfasının ekran görüntüsü
